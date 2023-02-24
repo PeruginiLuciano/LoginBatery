@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "421154562554",
+    "project_id": "batterylog-ce404",
+    "storage_bucket": "batterylog-ce404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421154562554:android:a3517f9af79c80e6628443",
+        "android_client_info": {
+          "package_name": "com.example.baterry_log"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421154562554-ro61qhrkk3edm2tm04h98ll01d1tpfqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ6EU8ShQcVstvtSCA2Lpeiv6nR-sZq1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421154562554-ro61qhrkk3edm2tm04h98ll01d1tpfqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
